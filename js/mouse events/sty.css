@@ -1,0 +1,43 @@
+#myEg {
+    background-color: rgb(209, 200, 188);
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    font-size: 4.0rem;
+    justify-content: center;
+    align-items: center;
+
+}
+#myEv {
+    background-color: rgb(209, 200, 188);
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    font-size: 4.0rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+#myEx {
+    background-color: rgb(209, 200, 188);
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    font-size: 4.0rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+#myButton{
+font-size: 3rem;
+align-items: center;
+}
